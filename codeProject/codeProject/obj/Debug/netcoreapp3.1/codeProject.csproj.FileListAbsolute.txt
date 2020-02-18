@@ -1,0 +1,11 @@
+C:\Users\benjamin.aumont\source\repos\codeProject\codeProject\bin\Debug\netcoreapp3.1\codeProject.exe
+C:\Users\benjamin.aumont\source\repos\codeProject\codeProject\bin\Debug\netcoreapp3.1\codeProject.deps.json
+C:\Users\benjamin.aumont\source\repos\codeProject\codeProject\bin\Debug\netcoreapp3.1\codeProject.runtimeconfig.json
+C:\Users\benjamin.aumont\source\repos\codeProject\codeProject\bin\Debug\netcoreapp3.1\codeProject.runtimeconfig.dev.json
+C:\Users\benjamin.aumont\source\repos\codeProject\codeProject\bin\Debug\netcoreapp3.1\codeProject.dll
+C:\Users\benjamin.aumont\source\repos\codeProject\codeProject\bin\Debug\netcoreapp3.1\codeProject.pdb
+C:\Users\benjamin.aumont\source\repos\codeProject\codeProject\obj\Debug\netcoreapp3.1\codeProject.csprojAssemblyReference.cache
+C:\Users\benjamin.aumont\source\repos\codeProject\codeProject\obj\Debug\netcoreapp3.1\codeProject.AssemblyInfoInputs.cache
+C:\Users\benjamin.aumont\source\repos\codeProject\codeProject\obj\Debug\netcoreapp3.1\codeProject.AssemblyInfo.cs
+C:\Users\benjamin.aumont\source\repos\codeProject\codeProject\obj\Debug\netcoreapp3.1\codeProject.dll
+C:\Users\benjamin.aumont\source\repos\codeProject\codeProject\obj\Debug\netcoreapp3.1\codeProject.pdb
