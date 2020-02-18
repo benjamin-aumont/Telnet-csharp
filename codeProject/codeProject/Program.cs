@@ -11,7 +11,7 @@ namespace codeProject
             
 
             // create server SMTP with port 25
-            TcpClient SmtpServ = new TcpClient("104.47.2.36", 25);
+            TcpClient SmtpServ = new TcpClient("mx", 25);
             string Data;
             byte[] szData;
             string CRLF = "\r\n";
@@ -40,7 +40,7 @@ namespace codeProject
                 Console.WriteLine(RdStrm.ReadLine());
 
                 // send receiver data
-                Data = "RCPT TO:<b.aumont.aftec@gmail.com>" + CRLF;
+                Data = "RCPT TO:<monique.berthier@gmail.com>" + CRLF;
                 szData = System.Text.Encoding.ASCII.GetBytes(Data.ToCharArray());
                 NetStrm.Write(szData, 0, szData.Length);
                 //LogList.Items.Add(RdStrm.ReadLine());
